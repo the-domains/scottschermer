@@ -1,0 +1,28 @@
+name: ScottSchermer
+favicon: null
+layout_spectrum: 0.989994348725304
+typography_spectrum: 0.7547664293088019
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6085496791638434
+  lightness: 0.10752214770764112
+  saturation: 0.6345255875494331
+  rhythmicContrast: 0.45194236701354384
+purpose: []
